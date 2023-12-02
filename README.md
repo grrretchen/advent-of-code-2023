@@ -9,4 +9,4 @@ These are my solutions.
 
 ### Day 01 - [Filter out invalid characters and return a sum](https://adventofcode.com/2023/day/1)
 1. Return the sum of integers within an alphanumeric list.
-
+2. Replace integer names with integer values and recalculate.
